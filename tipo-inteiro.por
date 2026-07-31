@@ -1,4 +1,4 @@
-programa {
+zprograma {
   funcao inicio() {
     inteiro = 18
     inteiro quantProdutos = 50
